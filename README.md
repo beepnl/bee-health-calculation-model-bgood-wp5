@@ -3,7 +3,7 @@ Bee health data calculation model B-GOOD Work package 5
 
 # Author
 Xiaodong Duan
-xd@bios.au.dk 
+xd@ecos.au.dk
 
 # Input data
 ## Measurement
